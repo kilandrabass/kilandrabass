@@ -15,12 +15,6 @@ Here are some of the types of projects I'll be sharing:
 - 📈 **Tableau Dashboards:** Visualizing data for impactful storytelling  
 - 🌟 Other experiments as I dive deeper into the world of tech  
 
-## ✨ Why This Repository Exists  
-This GitHub serves as:  
-1. A **portfolio** to showcase what I've learned and built.  
-2. A **personal archive** to look back on my progress over time.  
-3. A way to connect with others who share similar interests!  
-
 ## 🌍 Connect With Me  
 Feel free to reach out if you'd like to collaborate or chat about product management, entrepreneurship, or tech!  
 
