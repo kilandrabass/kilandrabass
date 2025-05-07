@@ -16,7 +16,7 @@ Here are some of the types of projects I'll be sharing:
 - 🌟 Other experiments as I dive deeper into the world of tech  
 
 ## 🌍 Connect With Me  
-Feel free to reach out if you'd like to collaborate or chat about product management, entrepreneurship, or tech!  
+Feel free to reach out if you'd like to collaborate or chat about strategy and operations, product management, entrepreneurship, or tech!  
 
 Check out www.killapunsandpaper.com for unique greeting cards 💌
 
