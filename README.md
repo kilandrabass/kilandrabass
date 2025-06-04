@@ -38,6 +38,6 @@ Check out www.killapunsandpaper.com for unique greeting cards 💌
 <!--ProfileViews -->
 <div align="center">
           
-![Profile Views](https://komarev.com/ghpvc/?username=kilandrabass) 
+![Profile Views](https://komarev.com/ghpvc/?username=kilandrabass&color=brightgreen)
 
 </div>
