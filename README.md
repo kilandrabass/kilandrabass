@@ -31,8 +31,8 @@ Check out www.killapunsandpaper.com for unique greeting cards 💌
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![MBA Real Humans: Insights From Students – LIVE Webinar Winter 2024](https://ytcards.demolab.com/?id=P3vxgXFPYBw&title=Video+Title&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Video Title")](https://www.youtube.com/watch?v=P3vxgXFPYBw)
-[![I Started A Small Greeting Card Company](https://ytcards.demolab.com/?id=H3qb7PsYbto&title=Video+Title&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "Video Title")](https://www.youtube.com/watch?v=H3qb7PsYbto)
+[![MBA Real Humans: Insights From Students – LIVE Webinar Winter 2024.](https://ytcards.demolab.com/?id=P3vxgXFPYBw&title=MBA+Real+Humans%3A+Insights+From+Students+%E2%80%93+LIVE+Webinar+Winter+2024.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "MBA Real Humans: Insights From Students – LIVE Webinar Winter 2024.")](https://www.youtube.com/watch?v=P3vxgXFPYBw)
+[![I Started A Small Greeting Card Company.](https://ytcards.demolab.com/?id=H3qb7PsYbto&title=I+Started+A+Small+Greeting+Card+Company.&lang=en&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=0 "I Started A Small Greeting Card Company.")](https://www.youtube.com/watch?v=H3qb7PsYbto)
 <!-- END YOUTUBE-CARDS -->
 
 
