@@ -8,13 +8,6 @@ I'm a **Product Manager** and **Greeting Card Company Founder** who is passionat
 - 📚 **Learning Focus:** SQL, Python, Tableau, and other digital tools  
 - 🚀 **Goal:** Sharpen my skills and create a portfolio to reflect my growth  
 
-## 🛠️ Projects You'll Find Here  
-Here are some of the types of projects I'll be sharing:  
-- 📊 **SQL Projects:** Exploring data analysis, querying, and database management  
-- 🐍 **Python Projects:** Automating tasks, data manipulation, games, and problem-solving  
-- 📈 **Tableau Dashboards:** Visualizing data for impactful storytelling  
-- 🌟 Other experiments as I dive deeper into the world of tech  
-
 ## 🌍 Connect With Me  
 Feel free to reach out if you'd like to collaborate or chat about strategy and operations, product management, entrepreneurship, or tech!  
 
